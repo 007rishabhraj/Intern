@@ -85,3 +85,14 @@ body {
     }
   }
 }
+.header{
+  display: flex;
+  background-color: #d1453b;
+  justify-content: flex-start;
+  align-items: center;
+  height: 5vh;
+  width: 100%;
+  position: fixed;
+  top: 0;
+ font-size: 25px;
+}
